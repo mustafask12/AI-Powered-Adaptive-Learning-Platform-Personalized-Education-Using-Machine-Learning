@@ -1,0 +1,11 @@
+NumPy
+Pandas
+scikit-learn
+Matplotlib
+Seaborn
+joblib
+OpenCV-python
+nltk
+flask
+streamlit
+MySQL-connector-python
